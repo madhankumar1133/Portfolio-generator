@@ -1,0 +1,23 @@
+
+.bgabout{
+    background-color: rgb(0,0,80); 
+    height: 100%;
+    width: 100%;
+}
+.aboutborder{
+    border-radius: 30px;
+    box-shadow: 5px 10px black;
+}
+.aboutborder:hover{
+      box-shadow: 4px 2px 4px 4px red;
+}
+
+p{
+    font-family: serif;
+    /* text-align: justify; */
+    /* text-indent:50px; */
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: serif;
+}
